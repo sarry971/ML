@@ -3,5 +3,5 @@
 
 # Contents
 
-11th feb - Getting familiar with Pandas, Matplotlib,
-17th feb & 23rd feb - Implementation of trivial model
+# 11th feb - Getting familiar with Pandas, Matplotlib,
+# 17th feb & 23rd feb - Implementation of trivial model
